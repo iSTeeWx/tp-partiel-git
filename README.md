@@ -1,6 +1,6 @@
 # Projet TP Git
 
-**Nom du projet : À REMPLACER PAR LE GROUPE**
+**Nom du projet : TP Git – Groupe 6** // Small conflict
 
 Bienvenue dans ce petit TP Git.
 
